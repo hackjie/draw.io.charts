@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T06:56:48.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15" etag="h7BsKrOp0pDnSpDN0YBd" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-29T06:56:56.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15" etag="8y1aERbXqFoFkNHcavQ_" version="12.3.3" type="github" pages="1">
   <diagram id="zlUfGWhfjDobWCDwf9dy" name="Page-1">
     <mxGraphModel dx="919" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="cgju45U1cOqjjoyWh1Tp-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cgju45U1cOqjjoyWh1Tp-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="30" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
